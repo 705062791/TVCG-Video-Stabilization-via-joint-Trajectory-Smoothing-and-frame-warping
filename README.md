@@ -56,6 +56,9 @@ Source code for "Effective Video stabilization via joint trajectory smoothing an
    -  {`alpha_1`,`alpha_2`,`Beta_1`,`Beta_2`,`gamma`}: Five parameters of energy equation (detailed reference paper)
        
 3. running
-----
 ### Ultimately, you'll get stable videos in the specified folder（save_path）
    
+----
+
+### Please visit [http://nieyongwei.net/](http://nieyongwei.net/) for more information
+### Paper will come soon

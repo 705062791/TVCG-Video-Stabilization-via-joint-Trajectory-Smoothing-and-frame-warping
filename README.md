@@ -32,7 +32,7 @@ Source code for "Effective Video stabilization via joint trajectory smoothing an
 2. Modify some main variables  
     - `caseFile` :The folder where the source video is located   
     - `saveFile` :A folder for storing trajectory date 
-    - `casename:Name` of your source video
+    - `casename`:Name of your source video
        
 3. running  
    

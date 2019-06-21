@@ -61,8 +61,8 @@ Source code for "Effective Video stabilization via joint trajectory smoothing an
 ----
 
 ### Please visit [http://nieyongwei.net/](http://nieyongwei.net/) for more information
-### Please cite paper:  
+### Please cite our paper:  
     T. Ma, Y. Nie, Q. Zhang, Z. Zhang, H. Sun and G. Li, "Effective Video Stabilization via Joint Trajectory Smoothing and Frame Warping," in IEEE Transactions on Visualization and Computer Graphics.
     doi: 10.1109/TVCG.2019.2923196
     keywords: {Trajectory;Smoothing methods;Cameras;Two dimensional displays;Three-dimensional displays;Feature extraction;Streaming media;Video stabilization;trajectory smoothing;mesh warping;optimization},
-    URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737754&isnumber=4359476
+    URL:[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737754&isnumber=4359476](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737754&isnumber=4359476) 

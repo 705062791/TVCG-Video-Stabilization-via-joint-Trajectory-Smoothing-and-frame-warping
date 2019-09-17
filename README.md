@@ -59,7 +59,7 @@ Source code for "Effective Video stabilization via joint trajectory smoothing an
 ### Ultimately, you'll get stable videos in the specified folder（save_path）
    
 ----
-
+### If you have any problem in running this code please contact me by mtz705062791@gmail.com
 ### Please visit [http://nieyongwei.net/](http://nieyongwei.net/) for more information
 ### Please cite our paper:  
     T. Ma, Y. Nie, Q. Zhang, Z. Zhang, H. Sun and G. Li, "Effective Video Stabilization via Joint Trajectory Smoothing and Frame Warping," in IEEE Transactions on Visualization and Computer Graphics.

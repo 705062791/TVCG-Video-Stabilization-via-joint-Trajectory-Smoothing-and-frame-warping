@@ -1,6 +1,6 @@
 # TVCG-Video-Stabilization-via-joint-Trajectory-Smoothing-and-frame-warping
 Source code for "Effective Video stabilization via joint trajectory smoothing and Frame warping" on TVCG
-  
+[\[PDF\]](https://ieeexplore.ieee.org/document/8737754/)  [\[Video 1\]](https://www.youtube.com/watch?v=7vJ6akeZyhQ) [\[Video 2\]](https://www.youtube.com/watch?v=9-N_C6tk9t0)
 --------
   
 ## 1.Environment
